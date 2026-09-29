@@ -1,0 +1,2 @@
+# YMM4PerfprmancePlugin
+YMM4のツールタブに現在のCPU GPU RAM使用率を可視化できるツールを追加します。
